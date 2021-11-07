@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyStartBtn.qml</file>
+        <file>MyUpMenu.qml</file>
+        <file>images/icons8-image-30.png</file>
+        <file>images/icons8-paper-30.png</file>
+        <file>images/icons8-person-30.png</file>
+        <file>images/icons8-setting-30.png</file>
+        <file>images/icons8-shutdown-30.png</file>
+        <file>MyBtn.qml</file>
+        <file>images/icons8-list-30.png</file>
+        <file>MyLeftBar.qml</file>
+        <file>ListApp.qml</file>
+        <file>Test.qml</file>
+        <file>MyMenu.qml</file>
+        <file>MyDropBtn.qml</file>
+        <file>MyListModel.qml</file>
+        <file>MySectionHeading.qml</file>
+    </qresource>
+</RCC>
